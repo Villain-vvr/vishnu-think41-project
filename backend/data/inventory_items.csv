@@ -1,0 +1,5 @@
+item_id,product_id,warehouse,stock
+1,101,Warehouse A,120
+2,102,Warehouse B,45
+3,103,Warehouse A,200
+4,104,Warehouse C,300

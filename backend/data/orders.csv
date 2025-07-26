@@ -1,0 +1,4 @@
+order_id,customer_name,product,quantity,status
+1,Alice,Book,2,Shipped
+2,Bob,Laptop,1,Processing
+3,Charlie,Mouse,3,Delivered
